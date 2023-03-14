@@ -1,0 +1,12 @@
+npm init
+
+webscraperdb@1.0.0 C:\Users\Mouath\Documents\GitHub\WebScraperDB
+├── cheerio@1.0.0-rc.12
+├── express@4.18.2
+├── mongoose@7.0.1
+└── request@2.88.2
+npm install mongodb
+
+node index.js
+
+# Rout : http://localhost:3000/scrape
