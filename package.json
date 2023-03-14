@@ -1,0 +1,15 @@
+{
+  "name": "webscraperdb",
+  "version": "1.0.0",
+  "description": "A Project to Scrab from Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\Mouath\\Documents\\GitHub\\WebScraperDB"
+  },
+  "author": "",
+  "license": "ISC"
+}
